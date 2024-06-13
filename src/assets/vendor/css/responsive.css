@@ -1,0 +1,534 @@
+/*Media query*/
+@media screen and (max-width: 1380px) {
+    .slidre-text h3 {
+        font-size: 29px;
+        line-height: 37px;
+    }
+    .platform-section {
+        padding: 4% 0% 4% 0%;
+    }
+    .platform-heading h1{
+        font-size: 44px;
+        line-height: 49px;
+    }
+    .product-buttons button {
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 1280px) {
+    .header-right-menu li.login-btn{
+        padding: 9px 40px;
+    }
+    .banner-section h3 {
+        font-size: 32px;
+    }
+    .ecosystem-section .ecosystem-main h3{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .products-main h3{
+        font-size: 40px;
+        line-height: 65px;
+    }
+    .ecosystem-section{
+        padding: 4% 0%;
+    }
+    .platform-inner-one p{
+        font-size: 28px;
+    }
+    .platform-inner-two p{
+        font-size: 28px;
+    }
+    .platform-middle-one p{
+        font-size: 28px;
+    }
+    .platform-middle-two p{
+        font-size: 28px;
+    }
+    .platform-bottom-one p{
+        font-size: 28px;
+
+    }
+    .platform-bottom-two p{
+        font-size: 28px;
+
+    }
+    .product-slider-main .owl-nav{
+        left: 50%;
+    }
+
+}
+@media screen and (max-width: 1200px) {
+    .ecosystem-two-img{
+        max-width: 50%;
+    }
+    .ecosystem-three-img{
+        max-width: 50%;
+    }
+    .ecosystem-inner-img{
+        max-width: 50%;
+    }
+    .ecosystem-inner-two-img{
+        max-width: 50%;
+    }
+    .slidre-text h3{
+        max-width: 100%;
+    }
+    .slidre-text h5{
+        max-width: 100%;
+    }
+    .banner-section {
+        padding: 13% 10% 24% 10%;
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+    .products-main h3 {
+        font-size: 35px;
+        line-height: 53px;
+        max-width: 100%;
+    }
+  
+}
+@media screen and (max-width: 991.5px) {
+    button.Btn_show_drawer {
+        display: block;
+        background: #0085FF;
+        border: none;
+    }
+    .nav_mobile_main {
+        display: block;
+    }
+    .header-right-menu ul{
+        display: none;
+    }
+  
+    .drawer_nav_mobile {
+        height: 100vh;
+        display: block;
+        padding: 15px;
+        background: #fff;
+    }
+    .footer-menu ul{
+        gap: 21px;
+    }
+    .footer-menu ul li:nth-child(2){
+        padding: 0px 13px;
+    }
+    .ecosystem-section .ecosystem-main h3{
+        max-width: 100%;
+    }
+    .ecosystem-two-img {
+        max-width: 63%;
+    }
+    .ecosystem-three-img {
+        max-width: 63%;
+    }
+    .ecosystem-img-one {
+        padding: 8px;
+    }
+    .ecosystem-two-img {
+        padding: 5px;
+    }
+    .ecosystem-three-img {
+        padding: 5px;
+    }
+    .ecosystem-one-img{
+        gap: 9px;
+    }
+    .ecosystem-inner-two-img img {
+        padding: 0px 8px;
+    }
+    .ecosystem-inner-img img {
+        padding: 6px 11px;
+    }
+    .ecosystem-inner-two-img {
+        max-width: 57%;
+    }
+    .slidre-main-div{
+        gap: 11px;
+    }
+    .slidre-text h3 {
+        font-size: 23px;
+        line-height: 33px;
+    }
+    .slidre-text h5 {
+        font-size: 14px;
+    }
+    .slidre-text a.active{
+        font-size: 16px;
+    }
+    .platform-heading h1 {
+        font-size: 34px;
+        max-width: 100%;
+    }
+    .platform-inner-one p {
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .platform-inner-two p {
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .platform-middle-one p{
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .platform-middle-two p{
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .platform-bottom-one p{
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .platform-bottom-two p{
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .banner-section h3 {
+        font-size: 27px;
+        max-width: 100%;
+    }
+    .ecosystem-section .ecosystem-main h3{
+        font-size: 34px;
+        max-width: 100%;
+    }
+    .product-buttons{
+        gap: 7px;
+    }
+    .slidre-main-div{
+        display: block;
+    }
+    .slidre-text {
+        width: 100%;
+        padding: 16px;
+    }
+    .slidre-img {
+        width: 100%;
+}
+.product-slider-main .owl-nav {
+    left: 43%;
+}
+.products-main h3 {
+    margin-bottom: 47px;
+}
+ul.list-mobile-menu {
+    margin-top: 33px;
+}
+.list-mobile-menu a.active {
+    font-size: 19px;
+}
+.list-mobile-menu li{
+    margin-bottom: 10px;
+}
+.login-btn a.active {
+    color: #fff;
+    background: linear-gradient(95.69deg, #3661FF 0%, #0085FF 100%);
+    padding: 10px 30px;
+    border: 1px solid #0085FF;
+    margin-top: 30px;
+    transition: .3s;
+  
+}
+.login-btn{
+    margin-top: 20px;
+}
+}
+@media screen and (max-width: 767.5px) {
+    .ecosystem-one-img{
+        justify-content: center;
+    }
+    .ecosystem-work:before{
+        display: none;
+    }
+    .ecosystem-two-img {
+        max-width: 28%;
+    }
+    .ecosystem-two-div {
+        margin-top: 35px;
+    }
+    .ecosystem-two-img {
+        padding: 8px;
+    }
+    .ecosystem-three-img {
+        max-width: 28%;
+    }
+    .ecosystem-three-div {
+        margin-top: 35px;
+    }
+    .ecosystem-three-img {
+        padding: 8px;
+    }
+    .ecosystem-inner-two-img {
+        max-width: 77%;
+    }
+    .ecosystem-inner-img {
+        max-width: 65%;
+    }
+    .products-main h3 {
+        font-size: 30px;
+        line-height: 43px;
+    }
+    .product-buttons {
+        display: grid;
+        gap: 5px;
+        width: 100%;
+    }
+    .product-btn-two button {
+        width: 100%;
+    }
+    .product-buttons button{
+        margin-right: 6px;
+        margin-bottom: 6px;
+    }
+    .product-btn-two button{
+        margin-top: 0px;
+    }
+    .products-main h3{
+        margin-bottom: 36px;
+    }
+    .platform-inner-two p{
+        max-width: 100%;
+    }
+    .platform-inner-one p{
+        max-width: 100%;
+    }
+    .platform-inner::before{
+        display: none;
+    }
+    .platform-middle-one{
+        max-width: 100%; 
+        
+    }
+    .platform-middle-two{
+        max-width: 100%; 
+        text-align: center;
+    }
+    .platform-inner-div::before{
+        display: none;
+    }
+    .platform-inner-div-div::before{
+        display: none;
+    }
+    .platform-bottom-one{
+        max-width: 100%; 
+       
+    }
+    .platform-bottom-two{
+        max-width: 100%; 
+        text-align: center;
+    }
+    .platform-section-div {
+        padding: 24px;
+    }
+    .platform-inner{
+        border-bottom: none;
+        align-items: start;
+    }
+    .platform-bottom-one p{
+        border-bottom: none;
+    }
+    .platform-bottom-two p{
+        border-bottom: none;
+    }
+    .platform-inner-div{
+        align-items: start;
+        border-bottom: none;
+    }
+    .platform-inner-div-div{
+        align-items: start;
+    }
+    .footer-right-menu li a.active {
+        font-size: 15px;
+    }
+    .footer-menu a.active {
+         font-size: 15px;
+    }
+    .footer-right-menu ul {
+        gap: 19px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .slidre-text h3 {
+        font-size: 18px;
+    }
+    .banner-section p {
+        margin-top: 46px;
+    }
+    .footer-main-div{
+        display: block;
+    }
+    .footer-right-menu ul {
+        display: block;
+        text-align: left;
+        margin-top: 29px;
+    }
+    .footer-right-menu ul li{
+        margin-top: 10px;
+    }
+    .footer-menu {
+        padding-top: 0%;
+    }
+    .ecosystem-main img {
+        width: 119px;
+    }
+    .ecosystem-section .ecosystem-main h3 {
+        font-size: 29px;
+       line-height: 37px;
+    }
+    .products-main h3 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .platform-heading h1 {
+        font-size: 27px;
+        line-height: 31px;
+    }
+    .footer-menu ul{
+        display: block;
+    }
+    .footer-menu ul li:nth-child(2){
+        border: none;
+        padding: 0px;
+    }
+    .footer-menu ul{
+        border-top: none;
+        padding: 0px;
+    }
+    .footer-main-div{
+        padding-bottom: 8px;
+    }
+    .footer-menu li {
+        margin-bottom: 10px;
+    }
+    .footer-menu li {
+        margin-bottom: 10px;
+    }
+    .ecosystem-inner-two-img {
+        max-width: 81%;
+    }
+    .ecosystem-inner-img img {
+        padding: 6px 7px;
+    }
+}
+
+@media screen and (max-width: 475px) {
+    .ecosystem-second-section::before{
+        background-image: none;
+    }
+    .ecosyatem-inner-div::before{
+        background-image: none;
+    }
+    .ecosyatem-inner-div {
+        display: block;
+        max-width: 45%;
+    }
+    .ecosystem-second-section {
+        padding-top: 0px;
+    }
+    .ecosyatem-inner-two {
+        padding-top: 28px;
+    }
+    .platform-inner{
+        display: block;
+        text-align: center;
+    }
+    .platform-inner-div{
+        display: block;
+        text-align: center;
+    }
+    .platform-inner-div-div{
+        display: block;
+        text-align: center;
+    }
+    .platform-middle-one{
+        width: 100%;
+    }
+    .platform-middle-two{
+        width: 100%;
+        text-align: center;
+    }
+    .platform-inner-div{
+        padding: 0px;
+    }
+    .platform-middle-one p{
+       max-width: 100%; 
+    }
+    .platform-bottom-one{
+        width: 100%;
+    }
+    .platform-bottom-two{
+        width: 100%;
+    }
+    .platform-bottom-one p{
+        font-size: 18px;
+    }
+    .platform-bottom-two p{
+        font-size: 18px;
+    }
+    .platform-inner-one p{
+        font-size: 18px;
+    }
+    .platform-inner-two p{
+        font-size: 18px;
+    }
+    .platform-middle-one p{
+        font-size: 18px;
+    }
+    .platform-middle-two p{
+        font-size: 18px;
+    }
+    .product-slider-main button.owl-prev svg {
+        padding: 11px;
+        width: 38px;
+        height: 38px;
+    }
+    .product-slider-main button.owl-next svg{
+        padding: 11px;
+        width: 38px;
+        height: 38px;
+    }
+    .product-slider-main .owl-nav{
+        bottom: -39px;
+    }
+    .ecosystem-two-img {
+        max-width: 48%;
+    }
+    .ecosystem-three-img {
+        max-width: 48%;
+    }
+    .ecosyatem-inner-div {
+        max-width: 75%;
+    }
+    .slidre-img img{
+        height: 100%;
+    }
+    .platform-heading h1 {
+        font-size: 20px;
+    }
+    .products-section{
+        padding: 10% 10% 15% 10%;
+    }
+    .product-slider-main .owl-nav {
+        left: 34%;
+    }
+    .header-main a img {
+        width: 188px;
+    }
+    .banner-section p {
+        font-size: 18px;
+    }
+    .banner-section h3 {
+        font-size: 19px;
+        max-width: 100%;
+    }
+    .banner-section button {
+        padding: 10px 52px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+  
+}
